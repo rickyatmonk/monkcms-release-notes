@@ -1,7 +1,7 @@
-Monk CMS Release Notes
-======================
+MonkCMS Release Notes
+=====================
 
-Release notes for Monk CMS are published in separate, timestamped files for each
+Release notes for Monk MS are published in separate, timestamped files for each
 build. Take a look at one of the release notes and you'll see that the
 additions, changes, and fixes included in the build are explained for both the
 backend and API.
